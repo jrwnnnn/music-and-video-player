@@ -1,6 +1,7 @@
 # music-and-video-player
 Programmed and published in GitHub by Mark Jerwin (@jrwnnnn)
-Language: HTML
+
+**Language:** HTML
 
 **Desription:**
 A school requirement for the subject Computer Programming NCII to be submitted at February 19, 2024.
