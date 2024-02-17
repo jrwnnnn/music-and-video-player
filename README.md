@@ -1,9 +1,9 @@
 # music-and-video-player
-Programmed and published in GitHub by Mark Jerwin (@jrwnnnn)
+Programmed and published in GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn) .
 
 **Language:** HTML
 
-**Desription:**
+###Desription:
 A school requirement for the subject Computer Programming NCII to be submitted at February 19, 2024.
 
 **Instructions:**
