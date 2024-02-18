@@ -1,14 +1,8 @@
-# music-and-video-player
+<h1>Music and Video Player <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" style="width:30px;height:30px;"></h1>
 
-**Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](**
+**Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn)** <br>
 
-**Language:** HTML
+<p><b>Language: </b> HTML </p>
 
-**Description:**
-A school requirement for the subject Computer Programming NCII to be submitted on February 19, 2024.
-
-**Instructions:**
-Make a music and video player website with HTML. It must have the following:
-1. 5 MP3 files
-2. 5 MP4 files
-3. Minimum of 3 webpages
+<p><b>Description: </b> <br>
+A school requirement for the subject Computer Programming NCII to be submitted on February 19, 2024.</p>
