@@ -9,6 +9,6 @@ mySQL: https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png
 
 Music and video player that runs on web. A Computer Programming NCII subject requirement <br>
 **Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn).** <br>
-> Status: Finished <br>
+> Project Status: Finished <br>
 ### How to use
 View the website by running `music_player/homepage.html` for the music player and `video_player/home.html` for the video player.
